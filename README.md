@@ -15,7 +15,7 @@
 #### Learning
 
 <p align="left">
-    <a href="https://pyhton.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pyhtong/python-ar21.svg-icon.svg" alt="pyhton" width="40" height="40"/> </a>
+    <a href="https://pyhton.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pyhton/python-ar21.svg-icon.svg" alt="pyhton" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
  
