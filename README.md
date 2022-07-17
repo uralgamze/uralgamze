@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-#### I'm a Research Data Scientis currently living in Amsterdam, Netherlands.
+#### I'm a Data Scientist currently living in Amsterdam, Netherlands.
 
 [![Linkedin Badge](https://img.shields.io/badge/-uralgamze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gamze-ural-ph-d-1b724976/)](https://www.linkedin.com/in/gamze-ural-ph-d-1b724976/)
 [![Gmail Badge](https://img.shields.io/badge/-uralgmz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uralgmz)](mailto:uralgmz@gmail.com)
